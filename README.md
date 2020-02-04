@@ -1,1 +1,1 @@
-# SocialMedia_Helper
+# SocialMedia_Helper is a project i created to help assist in entering and valaditing users into mulitple social media accounts of their choice at once. This is done with the help of selenium and makes the process seamless for the user.
